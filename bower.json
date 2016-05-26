@@ -1,0 +1,21 @@
+{
+  "name": "ShoppingCart",
+  "main": "index.js",
+  "version": "0.0.0",
+  "homepage": "index.html",
+  "authors": [
+    "sonalip1 <sonalip.mca@gmail.com>"
+  ],
+  "description": "Shopping Cart app",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6"
+  }
+}

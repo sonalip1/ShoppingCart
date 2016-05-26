@@ -1,0 +1,23 @@
+{
+  "name": "ShoppingCart",
+  "version": "1.0.0",
+  "description": "Shopping cart application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sonalip1/ShoppingCart.git"
+  },
+  "author": "Sonali <sonalip.mca@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sonalip1/ShoppingCart/issues"
+  },
+  "homepage": "https://github.com/sonalip1/ShoppingCart",
+  "dependencies": {
+    "express": "^4.13.4",
+	"mongoose": "4.4.19"
+  }
+}
